@@ -27,6 +27,7 @@
 ## Tabulation
 
 ## Graph
+"C:\Users\acer\Downloads\WhatsApp Image 2026-05-15 at 4.27.46 PM.jpeg"
 
 
 ## **Result**
