@@ -27,7 +27,8 @@
 ## Tabulation
 
 ## Graph
-"C:\Users\acer\Downloads\WhatsApp Image 2026-05-15 at 4.27.46 PM.jpeg"
+<img width="1600" height="852" alt="WhatsApp Image 2026-05-15 at 4 27 46 PM" src="https://github.com/user-attachments/assets/47befcb9-d83c-4b50-8c52-ed7a4e474681" />
+
 
 
 ## **Result**
