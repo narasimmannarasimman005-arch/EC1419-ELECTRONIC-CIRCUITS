@@ -11,7 +11,8 @@
 ## Graph
 
 
-"C:\Users\acer\Pictures\Screenshots\Screenshot (47).png"
+<img width="1910" height="989" alt="image" src="https://github.com/user-attachments/assets/33fa63cb-2396-40b2-8786-97277cc4eb2c" />
+
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
 
